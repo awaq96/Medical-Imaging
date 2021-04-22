@@ -1,6 +1,4 @@
 ReadMe
-
-ReadMe:
 To run the programs, navigate to the interface directory from the command line.
 
 To run the Image Noise Driver:
